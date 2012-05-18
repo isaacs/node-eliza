@@ -1,0 +1,12 @@
+{
+  "author": "Isaac Z. Schlueter <i@izs.me> (http://blog.izs.me/)",
+  "name": "eliza",
+  "description": "The classic Eliza",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/isaacs/node-eliza.git"
+  },
+  "main": "elizabot.js",
+  "bin": "eliza-repl.js"
+}
