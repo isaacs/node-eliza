@@ -8,5 +8,8 @@
     "url": "git://github.com/isaacs/node-eliza.git"
   },
   "main": "elizabot.js",
-  "bin": "eliza-repl.js"
+  "bin": "eliza-repl.js",
+  "dependencies": {
+    "irc": "0.3"
+  }
 }
