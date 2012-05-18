@@ -20,11 +20,11 @@ All the parts I wrote are BSD licensed.
 ## Usage
 
 ```javascript
-var eliza = require('eliza-irc')
+var Eliza = require('eliza/irc.js')
 
-eliza({ server: 'irc.freenode.net'
-      , nick: 'nodeliza'
-      , channels: ['#node.js']
-      , userName: 'eliza'
-      , realName: 'eliza' })
+new Eliza({ server: 'irc.freenode.net'
+          , nick: 'Eliza'
+          , channels: ['##turtles']
+          , userName: 'eliza'
+          , realName: 'eliza' })
 ```
