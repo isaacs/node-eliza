@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/isaacs/node-eliza.png)](http://travis-ci.org/isaacs/node-eliza)
 # eliza-irc
 
 An IRC bot that does the eliza thing.
